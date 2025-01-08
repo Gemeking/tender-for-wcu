@@ -1,0 +1,103 @@
+<div id="form_wrap">
+		
+			<form  action="conta.php" method="post" name="f1" onsubmit="return vali()" id="for">
+				<p>Contact Form Application</p>
+				
+					
+				<label for="name">Name: </label>
+				<input name="t1" type="text" id="t1" onchange="return name()" value="" required="true">
+				<label for="email">Email: </label>
+				<input pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" type="text" name="t3" id="t3" onchange="return email()" required="true">
+				<label for="email">Your Message : </label>
+				<textarea name="t5" value="Your Message" id="message" required="true"></textarea>
+				<input  class="btn"name="sub" type="submit" value="Submit">
+				
+			</form>
+		</div>
+		<style>
+		#form_wrap{
+	margin-top:130px;
+	margin-left:0px;
+	}
+#wrap {width:530px; margin:20px auto 0; height:1000px;}
+h1 {margin-bottom:20px; text-align:center;text-shadow:0 1px 0 #ede8d9; }
+
+
+	#form_wrap { overflow:hidden; height:446px; position:relative; top:0px;
+		-webkit-transition: all 1s ease-in-out .3s;
+		-moz-transition: all 1s ease-in-out .3s;
+		-o-transition: all 1s ease-in-out .3s;
+		transition: all 1s ease-in-out .3s;}
+	
+	#form_wrap:before {content:"";
+		position:absolute;
+		bottom:128px;left:0px;
+		background:url('images/before.png');
+		width:530px;height: 316px; margin-left:205px;}
+	
+	#form_wrap:after {content:"";position:absolute;
+		bottom:0px;left:0;
+		background:url('images/after.png');
+		width:530px;height: 260px;margin-left:205px; }
+
+	#form_wrap.hide:after, #form_wrap.hide:before {display:none; }
+	#form_wrap:hover {height:776px;top:-150px;}
+
+
+	#for {background:white; 
+		position:relative;top:200px;overflow:hidden;
+		height:200px;width:400px;margin:0px auto;padding:20px; 
+		border: 1px solid #00CCFF;
+		border-radius: 3px; 
+		-moz-border-radius: 3px; -webkit-border-radius: 3px;
+		box-shadow: 0px 0px 3px #9d9d9d, inset 0px 0px 27px #fff;
+		-moz-box-shadow: 0px 0px 3px #9d9d9d, inset 0px 0px 14px #fff;
+		-webkit-box-shadow: 0px 0px 3px #9d9d9d, inset 0px 0px 27px #fff;
+		-webkit-transition: all 1s ease-in-out .3s;
+		-moz-transition: all 1s ease-in-out .3s;
+		-o-transition: all 1s ease-in-out .3s;
+		transition: all 1s ease-in-out .3s;}
+
+
+		#form_wrap:hover form {height:530px;}
+#form_wrap .input{
+border:none;
+}
+		label {
+			margin: 11px 20px 0 0; 
+			font-size: 16px; color: #b3aba1;
+			text-transform: uppercase; 
+			text-shadow: 0px 1px 0px #fff;
+		}
+
+		input[type=text], textarea {
+			font: 14px normal normal uppercase helvetica, arial, serif;
+			color: black;background:none;
+			width: 380px; height: 36px; padding: 0px 10px; margin: 0 0 10px 0;
+			border:1px solid #00CCFF;
+			-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+			
+		}	
+
+		textarea { height: 80px; padding-top:14px;}
+
+		textarea:focus, input[type=text]:focus {background:rgba(255,255,255,.35);}
+
+		#form_wrap input[type=submit] {
+			position:relative;font-family: 'YanoneKaffeesatzRegular'; 
+			font-size:24px; color: #7c7873;text-shadow:0 1px 0 #fff;
+			width:100%; text-align:center;opacity:0;
+			background-color:#435643;
+			cursor: pointer;
+			-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; 
+			-webkit-transition: opacity .6s ease-in-out 0s;
+			-moz-transition: opacity .6s ease-in-out 0s;
+			-o-transition: opacity .6s ease-in-out 0s;
+			transition: opacity .6s ease-in-out 0s;
+		}
+
+		#form_wrap:hover input[type=submit] {z-index:1;opacity:2;
+			}
+
+			#form_wrap:hover input:hover[type=submit] {color:#435c70;}
+		</style>
