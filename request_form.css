@@ -1,0 +1,36 @@
+.request_form{
+background-color:#DDffe;
+text-aligkn:center;
+width:800px;
+}
+.request{
+	background-color:#DDffe;
+text-aligkn:center;
+width:800px;
+}
+.input{
+	border-top-color:green;
+	width:auto;
+}
+.textarea {
+	width:800px;
+    overflow-y: scroll;
+	border-bottom-color:red;
+	border-right-color:green;
+    height: 200px;
+    resize: none; 
+	font-size:18px;/* Remove this if you want the user to resize the textarea */
+}
+.btn{
+	background-color:inherit;
+	font-size:20px;
+	
+}
+.documentform{margin-top:20px;
+padding-top:20px;
+}
+.pro{overflow-y: scroll;
+border-bottom-color:blue;
+	border-right-color:green;
+	
+}

@@ -1,0 +1,135 @@
+Raw Request Body:
+{"event":"charge.failed\/cancelled","first_name":"wond","last_name":"mwrk","email":"w@gmail.com","mobile":null,"currency":"ETB","amount":"1000.00","charge":"35.00","status":"failed\/cancelled","mode":"test","reference":"APD8xa5RWAMS3","created_at":"2024-06-02T13:01:31.000000Z","updated_at":"2024-06-02T13:01:31.000000Z","type":"API","tx_ref":"negade-tx-665bd2507a1ed","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wond","last_name":"mwrk","email":"w@gmail.com","mobile":null,"currency":"ETB","amount":"1000.00","charge":"35.00","status":"success","mode":"test","reference":"APkyM4jFJuCwF","created_at":"2024-06-02T13:01:42.000000Z","updated_at":"2024-06-02T13:01:42.000000Z","type":"API","tx_ref":"negade-tx-665bd2507a1ed","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wond","last_name":"mwrk","email":"w@gmail.com","mobile":null,"currency":"ETB","amount":"1000.00","charge":"35.00","status":"success","mode":"test","reference":"APGLmBq2NCZY2","created_at":"2024-06-02T14:00:02.000000Z","updated_at":"2024-06-02T14:00:02.000000Z","type":"API","tx_ref":"negade-tx-665bdfffe1bbb","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wond","last_name":"mwrk","email":"w@gmail.com","mobile":null,"currency":"ETB","amount":"1000.00","charge":"35.00","status":"success","mode":"test","reference":"APBKJRRYflFgg","created_at":"2024-06-02T14:11:49.000000Z","updated_at":"2024-06-02T14:11:49.000000Z","type":"API","tx_ref":"negade-tx-665be2c6010cc","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"tom","last_name":"misgie","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"50000.00","charge":"1750.00","status":"success","mode":"test","reference":"APwwtH62h2q6P","created_at":"2024-06-02T14:17:22.000000Z","updated_at":"2024-06-02T14:17:22.000000Z","type":"API","tx_ref":"negade-tx-665be40686cda","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"ggii","last_name":"ui","email":"tmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APuUc0D7tqOm1","created_at":"2024-06-02T14:28:02.000000Z","updated_at":"2024-06-02T14:28:02.000000Z","type":"API","tx_ref":"negade-tx-665be68e709b9","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"tooo","last_name":"ddd","email":"tmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APheM99pGXQEK","created_at":"2024-06-02T14:39:01.000000Z","updated_at":"2024-06-02T14:39:01.000000Z","type":"API","tx_ref":"negade-tx-665be9170c0ef","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"fgf","last_name":"dfdf","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APUKEmmGdM5W1","created_at":"2024-06-02T14:42:51.000000Z","updated_at":"2024-06-02T14:42:51.000000Z","type":"API","tx_ref":"negade-tx-665bea01bd9d7","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dydy","last_name":"serseser","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"56.00","charge":"1.96","status":"success","mode":"test","reference":"APaf0L0HQhWbd","created_at":"2024-06-02T14:45:07.000000Z","updated_at":"2024-06-02T14:45:07.000000Z","type":"API","tx_ref":"negade-tx-665bea8331178","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"amare","last_name":"ysmaw","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"60.00","charge":"2.10","status":"success","mode":"test","reference":"APydXBuXZMUDh","created_at":"2024-06-02T14:45:57.000000Z","updated_at":"2024-06-02T14:45:57.000000Z","type":"API","tx_ref":"negade-tx-665beac291562","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"hhh","last_name":"dtrdtrdtr","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"59.00","charge":"2.07","status":"success","mode":"test","reference":"APFtfI8Srl344","created_at":"2024-06-02T14:47:48.000000Z","updated_at":"2024-06-02T14:47:48.000000Z","type":"API","tx_ref":"negade-tx-665beb25264ec","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dddd","last_name":"yty","email":"wdcijwdcjkcjk@gmail.com","mobile":null,"currency":"ETB","amount":"58.00","charge":"2.03","status":"success","mode":"test","reference":"APVh0a2pkqU28","created_at":"2024-06-02T14:51:52.000000Z","updated_at":"2024-06-02T14:51:52.000000Z","type":"API","tx_ref":"negade-tx-665bec1e88edf","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"abebe","last_name":"rererer","email":"girmatmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APeXGiRCOvLrm","created_at":"2024-06-04T13:18:52.000000Z","updated_at":"2024-06-04T13:18:52.000000Z","type":"API","tx_ref":"negade-tx-665f141d87bef","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"abebe","last_name":"rererer","email":"girmatmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APHs3pYZUufvo","created_at":"2024-06-04T13:20:08.000000Z","updated_at":"2024-06-04T13:20:08.000000Z","type":"API","tx_ref":"negade-tx-665f147a70ab1","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"abebe","last_name":"wewwe","email":"girmatmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"50000.00","charge":"1750.00","status":"success","mode":"test","reference":"APHVujQFrnGWn","created_at":"2024-06-04T13:31:02.000000Z","updated_at":"2024-06-04T13:31:02.000000Z","type":"API","tx_ref":"negade-tx-665f16fb14ddd","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"qweqwee","last_name":"weqwewe","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APoCDvI5LRd2r","created_at":"2024-06-04T14:05:03.000000Z","updated_at":"2024-06-04T14:05:03.000000Z","type":"API","tx_ref":"negade-tx-665f1ef3da00d","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wewewewe","last_name":"wewewe","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"50.00","charge":"1.75","status":"success","mode":"test","reference":"APzXm3ODmQ0C9","created_at":"2024-06-04T14:29:38.000000Z","updated_at":"2024-06-04T14:29:38.000000Z","type":"API","tx_ref":"negade-tx-665f24c216763","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"kebede","last_name":"weew","email":"kbrossmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"100.00","charge":"3.50","status":"success","mode":"test","reference":"APmawifP1B1pZ","created_at":"2024-06-04T14:31:47.000000Z","updated_at":"2024-06-04T14:31:47.000000Z","type":"API","tx_ref":"negade-tx-665f253648e3f","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dsdsd","last_name":"ddwdwd","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"23232.00","charge":"813.12","status":"success","mode":"test","reference":"APIcNTu49pxGw","created_at":"2024-06-06T12:13:08.000000Z","updated_at":"2024-06-06T12:13:08.000000Z","type":"API","tx_ref":"negade-tx-6661a7523cf8c","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dsdsd","last_name":"ddwdwd","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"23232.00","charge":"813.12","status":"success","mode":"test","reference":"APqiYqYpgoSYj","created_at":"2024-06-06T12:14:58.000000Z","updated_at":"2024-06-06T12:14:58.000000Z","type":"API","tx_ref":"negade-tx-6661a8390a849","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dsdsd","last_name":"ddwdwd","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"20.00","charge":"0.70","status":"success","mode":"test","reference":"APi5DNeI4dq8c","created_at":"2024-06-06T12:33:12.000000Z","updated_at":"2024-06-06T12:33:12.000000Z","type":"API","tx_ref":"negade-tx-6661ac6b01815","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dsdsd","last_name":"ddwdwd","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"67.00","charge":"2.35","status":"success","mode":"test","reference":"APQwcqb0mehtK","created_at":"2024-06-06T12:33:43.000000Z","updated_at":"2024-06-06T12:33:43.000000Z","type":"API","tx_ref":"negade-tx-6661ac9aa9db1","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"dsdsd","last_name":"ddwdwd","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"700.00","charge":"24.50","status":"success","mode":"test","reference":"AP3wBNcbfrzMv","created_at":"2024-06-06T12:40:11.000000Z","updated_at":"2024-06-06T12:40:11.000000Z","type":"API","tx_ref":"negade-tx-6661ae1d500df","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wewee","last_name":"weed","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"2323.00","charge":"81.31","status":"success","mode":"test","reference":"APJTk0lATJNRU","created_at":"2024-06-06T13:24:50.000000Z","updated_at":"2024-06-06T13:24:50.000000Z","type":"API","tx_ref":"negade-tx-6661b863f0725","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"www","last_name":"weed","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"44.00","charge":"1.54","status":"success","mode":"test","reference":"APdYpC1OVM0na","created_at":"2024-06-06T13:28:53.000000Z","updated_at":"2024-06-06T13:28:53.000000Z","type":"API","tx_ref":"negade-tx-6661b988f1021","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"ddd","last_name":"dddee","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"2121.00","charge":"74.24","status":"success","mode":"test","reference":"APerySH6zIXPt","created_at":"2024-06-06T13:36:27.000000Z","updated_at":"2024-06-06T13:36:27.000000Z","type":"API","tx_ref":"negade-tx-6661bb47b7fec","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"ddffdf","last_name":"dddee","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"34.00","charge":"1.19","status":"success","mode":"test","reference":"APa5M11PtMBH1","created_at":"2024-06-06T13:41:51.000000Z","updated_at":"2024-06-06T13:41:51.000000Z","type":"API","tx_ref":"negade-tx-6661bc8bbc714","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wewewww","last_name":"www","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"32.00","charge":"1.12","status":"success","mode":"test","reference":"APmqCVGicsdyp","created_at":"2024-06-06T13:49:19.000000Z","updated_at":"2024-06-06T13:49:19.000000Z","type":"API","tx_ref":"negade-tx-6661be46a9f76","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"ddd","last_name":"dddee","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"444.00","charge":"15.54","status":"success","mode":"test","reference":"APFgTfdvTAVYR","created_at":"2024-06-06T13:53:51.000000Z","updated_at":"2024-06-06T13:53:51.000000Z","type":"API","tx_ref":"negade-tx-6661bf6290dc3","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"eee","last_name":"dddee","email":"fasikawysjmrer3eeraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"333.00","charge":"11.66","status":"success","mode":"test","reference":"AP5IszvVr4qxB","created_at":"2024-06-06T13:55:21.000000Z","updated_at":"2024-06-06T13:55:21.000000Z","type":"API","tx_ref":"negade-tx-6661bfb8749c4","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"ssss","last_name":"erere","email":"fasikawysmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"2121.00","charge":"74.24","status":"success","mode":"test","reference":"APYUL3Ie0xJ6S","created_at":"2024-06-06T13:56:50.000000Z","updated_at":"2024-06-06T13:56:50.000000Z","type":"API","tx_ref":"negade-tx-6661c00b54710","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"wqdqw","last_name":"qddw","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"32.00","charge":"1.12","status":"success","mode":"test","reference":"APTfLRLuIW0Cb","created_at":"2024-06-06T15:13:49.000000Z","updated_at":"2024-06-06T15:13:49.000000Z","type":"API","tx_ref":"negade-tx-6661d221b23b1","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"bbbbb","last_name":"qddw","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"89.00","charge":"3.12","status":"success","mode":"test","reference":"APtxHmwy6T7q5","created_at":"2024-06-06T15:16:52.000000Z","updated_at":"2024-06-06T15:16:52.000000Z","type":"API","tx_ref":"negade-tx-6661d2d48725b","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"bbbbb","last_name":"qddw","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"56.00","charge":"1.96","status":"success","mode":"test","reference":"APbqOlzudPBRs","created_at":"2024-06-06T15:17:28.000000Z","updated_at":"2024-06-06T15:17:28.000000Z","type":"API","tx_ref":"negade-tx-6661d2facc1c1","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"bbbbb","last_name":"qddw","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"56.00","charge":"1.96","status":"success","mode":"test","reference":"AP05FRshB1tEs","created_at":"2024-06-06T15:20:52.000000Z","updated_at":"2024-06-06T15:20:52.000000Z","type":"API","tx_ref":"negade-tx-6661d3c4ec84c","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"tertetrt","last_name":"erere","email":"fasikawysmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"23.00","charge":"0.81","status":"success","mode":"test","reference":"APhZuntbrezyN","created_at":"2024-06-06T15:24:59.000000Z","updated_at":"2024-06-06T15:24:59.000000Z","type":"API","tx_ref":"negade-tx-6661d4bf31877","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"xdfg","last_name":"sdsdds","email":"fasikawysmrereraw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"7676.00","charge":"268.66","status":"success","mode":"test","reference":"APt6zoGlS0jkE","created_at":"2024-06-06T15:30:22.000000Z","updated_at":"2024-06-06T15:30:22.000000Z","type":"API","tx_ref":"negade-tx-6661d5f21a574","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"eden","last_name":"ylak","email":"eduye.1234@gmail.com","mobile":null,"currency":"ETB","amount":"565.00","charge":"19.78","status":"success","mode":"test","reference":"APutCzkGpoEa6","created_at":"2024-06-06T17:48:37.000000Z","updated_at":"2024-06-06T17:48:37.000000Z","type":"API","tx_ref":"negade-tx-6661f63654ad7","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"eden","last_name":"ylak","email":"eduye.1234@gmail.com","mobile":null,"currency":"ETB","amount":"100.00","charge":"3.50","status":"success","mode":"test","reference":"APVbct5BGdSVe","created_at":"2024-06-06T17:57:15.000000Z","updated_at":"2024-06-06T17:57:15.000000Z","type":"API","tx_ref":"negade-tx-6661f8323a2ff","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"mom","last_name":"mulu","email":"mommu@gmail.com","mobile":null,"currency":"ETB","amount":"100.00","charge":"3.50","status":"success","mode":"test","reference":"APcPGYqUh8R3q","created_at":"2024-06-06T18:01:52.000000Z","updated_at":"2024-06-06T18:01:52.000000Z","type":"API","tx_ref":"negade-tx-6661f944301d3","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"deede","last_name":"edde","email":"tmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"3232.00","charge":"113.12","status":"success","mode":"test","reference":"APOd21KfObFjx","created_at":"2024-06-06T18:08:35.000000Z","updated_at":"2024-06-06T18:08:35.000000Z","type":"API","tx_ref":"negade-tx-6661fab803275","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"nene","last_name":"misgie","email":"tmisgie@gmail.com","mobile":null,"currency":"ETB","amount":"10101.00","charge":"353.54","status":"success","mode":"test","reference":"APKbezAMiB66N","created_at":"2024-06-06T18:13:34.000000Z","updated_at":"2024-06-06T18:13:34.000000Z","type":"API","tx_ref":"negade-tx-6661fc1a9a89f","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"eerer","last_name":"ttdtr","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"787.00","charge":"27.55","status":"success","mode":"test","reference":"APFtLK75wfSEg","created_at":"2024-06-07T06:34:06.000000Z","updated_at":"2024-06-07T06:34:06.000000Z","type":"API","tx_ref":"negade-tx-6662a9b2db765","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"eerer","last_name":"ttdtr","email":"amaresmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"989.00","charge":"34.62","status":"success","mode":"test","reference":"APLJD4XKhakO0","created_at":"2024-06-07T06:35:24.000000Z","updated_at":"2024-06-07T06:35:24.000000Z","type":"API","tx_ref":"negade-tx-6662aa1ccdc28","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
+Raw Request Body:
+{"event":"charge.success","first_name":"weas","last_name":"sdxfcg","email":"esrsmaw.1234@gmail.com","mobile":null,"currency":"ETB","amount":"576.00","charge":"20.16","status":"success","mode":"test","reference":"APiCsLbGGKME7","created_at":"2024-06-07T06:57:33.000000Z","updated_at":"2024-06-07T06:57:33.000000Z","type":"API","tx_ref":"negade-tx-6662af1b80080","payment_method":"test","customization":{"title":null,"description":"Paying with Confidence with cha","logo":null},"meta":"null"}
+
